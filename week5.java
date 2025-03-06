@@ -4,7 +4,7 @@ public class week5 {
 
         // Call each student's method
 <<<<<<< HEAD
-        Sonajo.display();//lastname.display(); // Add your method call here
+        Sonajo.display();
 =======
         //lastname.display(); // Add your method call here
 
